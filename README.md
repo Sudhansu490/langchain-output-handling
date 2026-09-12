@@ -122,7 +122,3 @@ python langchain-structured-output/typeddict_demo.py
 ## Tech Stack
 
 `LangChain` · `LangChain-OpenAI` · `LangChain-HuggingFace` · `Pydantic` · `Python`
-
-## License
-
-MIT
