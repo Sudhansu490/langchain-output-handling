@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-huggingface
+langchain-core
+python-dotenv
+pydantic
+email-validator
